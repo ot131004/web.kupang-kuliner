@@ -1,2 +1,2 @@
-# web.-kupang-kuliner
+# web.kupang-kuliner
 web
